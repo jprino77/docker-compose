@@ -15,6 +15,6 @@ Repositorio que contiene docker compose para levantar imagenes de redis, kafka, 
  - Arch Linux pacman -S redis
  - Docker docker run cmd.cat/redis-cli redis-cli
  
- ### KackaCat (cli para producir y consumir mensajes de kafka)
+ ### KafkaCat (cli para producir y consumir mensajes de kafka)
  
  - https://github.com/edenhill/kcat#running-in-docker
